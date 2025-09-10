@@ -1,5 +1,4 @@
 # TDS-Macros
-yo
 This contains macros for stuff I find annoying to do in TDS. Made public because I don't feel it is cheating, and I don't see anything online for AHK macros for Tower Defense Simulator. so i made my own :)
 
 
