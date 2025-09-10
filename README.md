@@ -4,7 +4,7 @@ This contains macros for stuff I find annoying to do in TDS. Made public because
 
 # EXPLANATION OF FILES:
 **MercFullAirDropMicro.ahk**
-- my main motivation for making this script.
+- my main motivation for making this GitHub
 - Most AHK scripts for mercenary will only spam upgrade key.
 - this script will press 5 for merc, click to place (middle of screen), press Z (my merc airdrop hotkey), then goes through coordinates. you should use GrabCoords.ahk to find what works for ur laptop.
 - for coordinate grabbing, add a location where you want the airdrop to click (since Z is last button pressed to trigger airdrop ability), then click 2 times on riot (or whatever u wanna drop really, i just choose riot) and then it presses X (my sell button) and exits.
